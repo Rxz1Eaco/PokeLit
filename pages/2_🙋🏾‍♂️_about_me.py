@@ -2,6 +2,7 @@ import streamlit as st
 
 st.set_page_config(page_title="Sobre Mim")
 st.write("## About Me:")
+st.image("https://kanto.legiaodosherois.com.br/w750-q95-k1/wp-content/uploads/2021/10/legiao_gEQ9YRsnFa3I.jpg.webp",caption="Imagem Pókemon",use_column_width=True,)
 st.write(
     "Pokémon ocupa um lugar muito especial em meu coração, pois é provavelmente o único videogame que segui criteriosamente por mais de 6 anos. Com essa base de dados, eu queria ser capaz de responder às seguintes perguntas:"
 )
