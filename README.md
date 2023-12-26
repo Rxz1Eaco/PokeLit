@@ -36,7 +36,6 @@ A organização do repositório está da seguinte forma:
 
 - **`.ipynb`**: Jupyter Notebooks que detalham o processo de análise de dados
 - **`.xlsx`**: Database em excel
-- **`.csv`**: Database em csv
 - **`.sql`**: Databases em sql
   
 [//]: # (**`images/`**: Gráficos e visualizações gerados durante a análise.)
